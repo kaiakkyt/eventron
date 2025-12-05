@@ -1,0 +1,10 @@
+name: Eventron
+version: '1.00.0'
+main: kaiakk.eventron.Eventron
+api-version: '1.13'
+authors: [ KaiakK ]
+description: A plugin that automates some events in your server for you and makes your server fun with random events!
+website: https://modrinth.com/plugin/eventron
+load: STARTUP
+folia-supported: true
+depend: [ Multimedia ]
